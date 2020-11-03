@@ -1,0 +1,12 @@
+.main-content {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #ddd;
+    display: flex;
+}
+.profiles {
+    width: 80%;
+}
+.cart {
+    width: 20%;
+}

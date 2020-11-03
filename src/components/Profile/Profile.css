@@ -1,0 +1,40 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+img {
+    max-width: 100px;
+    border-radius: 50%;
+}
+.profile {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 30px 10px;
+    margin: 20px 10px 20px 0px;
+    width: 28%;
+    border-radius: 5px;
+    float: left;
+}
+.profile h4 {
+    color: #5E4684;
+    padding: 10px 0px;
+}
+b {
+    font-weight: 500;
+}
+.addfriend {
+    background-color: #5E4684;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 8px 18px;
+    border-radius: 6px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+@media (max-width: 776px){
+    .profile {
+        width: 80%;
+    }
+}

@@ -1,0 +1,17 @@
+/* body {
+    position: relative;
+} */
+.cart-area {
+    position: fixed;
+    right: 20px;
+    background-color: whitesmoke;
+    margin-top: 20px;
+    height: 20vh;
+    border-radius: 4px;
+    padding: 30px 10px;
+    text-align: center;
+    /* width: 90%; */
+}
+.cart-area h4 {
+    color: #5E4684;
+}
